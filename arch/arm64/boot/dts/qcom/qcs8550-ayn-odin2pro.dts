@@ -177,10 +177,6 @@
 	};
 };
 
-&pmk8550_pwm {
-	status = "okay";
-};
-
 &i2c0 {
 	clock-frequency = <400000>;
 	status = "okay";
